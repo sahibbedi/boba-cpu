@@ -1,0 +1,7 @@
+=== Final Summary (averaged over 116 frames) ===
+Average FPS: 5.38
+Average Total Frame Time: 186.00 ms
+Simulator: 171.08 ms (92.0%)
+Linear Blend Skinning: 0.07 ms (0.0%)
+Rendering: 0.90 ms (0.5%)
+Frame compositing: 12.62 ms (6.8%)
