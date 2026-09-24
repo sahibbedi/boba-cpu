@@ -1,0 +1,19 @@
+name: phystwin-mac
+channels:
+  - pytorch
+  - apple
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch::pytorch
+  - torchvision
+  - torchaudio
+  - scipy
+  - numpy
+  - pip
+  - glfw
+  - pyopengl
+  - pip:
+    - tqdm
+    - ninja
