@@ -1,0 +1,25 @@
+# Ignore the heavy folders shown in your directory
+Boba-Public/
+data/
+env_install/
+experiments/
+experiments_optimization/
+gaussian_output/
+gaussian_output_pruned_policy_30_55/
+
+# Ignore local Python and system caches
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Ignore generated simulation artifacts
+*.pkl
+*.npy
+*.npz
+*.mp4
+*.avi
+*.gif
+videos/
+batch_simulation_results/
+collected_simulation_data/
+results/
